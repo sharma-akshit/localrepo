@@ -11,7 +11,7 @@ int main()
     cout<<"before swapping"<<endl;
     cout<b<"numbers are: "<<a<< "and" <<b<<endl;
     cout <<"after swappping"<<endl;
-
+    cout<<"lets see what's happend ??"<<endl;
     a = temp;
     temp = b;
     b = a;
